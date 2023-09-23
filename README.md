@@ -17,6 +17,11 @@
 进入https://console.xfyun.cn/services/bm2 可查看api key等用户个人信息。
 
 ## 2.使用本项目进行体验
+
+首先克隆 git clone https://github.com/tensorfly-gpu/SparkAssistant
+
+然后运行 main.py 就可以进行交互了
+
 ### 2.1 执行大模型生成的代码，提升工作效率
 以miku2.jpg为例，我们可以使用语言命令来直接操作文件，其中：对于我们语言的理解，我们使用大模型和prompt来实现；对于代码的生成，我们使用大模型来实现。
 
